@@ -1,0 +1,1 @@
+<!-- This file is used to markup the admin form of the widget -->
